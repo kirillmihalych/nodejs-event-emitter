@@ -1,0 +1,2 @@
+20221117	20:19:21	b8913edf-0c9d-4412-817c-af5e9cd3b926	Log event emitted!
+20221117	20:19:31	2503061b-6ed3-4ccc-b681-6edcc8b2b1b9	Log event emitted!
